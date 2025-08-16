@@ -1,0 +1,41 @@
+/** 頁面樣式 **/
+
+.quote {
+  border-radius: 12px;
+  text-align: center;
+}
+
+.intro img {
+  width: 1076px;
+  margin-left: -110px;
+  margin-right: -110px;
+}
+
+.section-lined {
+  border-bottom: 1px solid $neutral-300;
+}
+
+.history-descr {
+  border-left: 1px solid $neutral-900;
+  padding-left: 8px;
+}
+
+.footer {
+  background-color: $neutral-100;
+  text-align: center;
+}
+
+.history-list {
+  list-style-type: disc;
+  padding-left: 24px;
+}
+
+.concept-item {
+  border-left: 3px solid $neutral-300;
+  padding-left: 12px;
+}
+
+.bi {
+  padding-right: 8px;
+  vertical-align: bottom;
+}
